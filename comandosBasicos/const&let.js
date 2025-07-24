@@ -18,7 +18,8 @@ const anoNascimento = anoAtual - idade;
 console.log(nome, sobrenome, 'tem', idade, 'anos', 'e pesa', peso, 'quilos')
 console.log(`${nome}${sobrenome} tem ${idade} anos, pesa ${peso} kg.`);
 console.log(`Ele tem ${altura}m de altura, e o IMC dele é de ${IMC}.`);
-console.log(`${nome.split("O")[0].toLowerCase()} ${sobrenome.toLowerCase()} nasceu em ${anoNascimento}.`);
+console.log(`${nome.split("O")[0].toLowerCase()} ${sobrenome.toLowerCase()} nasceu em ${anoNascimento}.`); //O split("O") só corta onde encontra a letra "O" maiúscula.
+//split() é um método de string que divide uma string em partes, usando um separador que você define. Ele retorna um array com essas partes.
 
 
 
