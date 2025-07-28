@@ -11,7 +11,10 @@ umaString.slice(2, 4)               // Corta do índice 2 ao 4 (exclusivo) = " t
 console.log(umaString[4])
 console.log(umaString.charAt(3))
 console.log(umaString.charAt(4))
-console.log(umaString.replace)
+console.log(umaString.replace("texto","sopa"))
+console.log(umaString.slice(0, 2))
+console.log(umaString.slice(2,4))
+
 
 
 //console.log(umaString[4])

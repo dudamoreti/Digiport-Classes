@@ -1,4 +1,4 @@
-                //0123456789
+                //012345678910...
 let umaString = "Javascript é incrível"
 umaString[5]
 umaString.charAt(5)
