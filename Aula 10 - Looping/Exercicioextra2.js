@@ -7,7 +7,7 @@ if (numero < 0) {
     console.log("Por favor, digite um número inteiro positivo válido.");
 } else {
     for (let i = numero; i >= 0; i--) {
-        console.log(i);
+        console.log(i);//
     }
 }
 
