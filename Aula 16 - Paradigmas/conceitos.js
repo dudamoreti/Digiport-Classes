@@ -1,0 +1,1 @@
+//modelos ou estilos que definem a forma como você escreve a solução de um problema, eles descrevem como representar e estruturar a solução computacional
