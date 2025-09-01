@@ -3,6 +3,7 @@
 // --------------------------
 // Create a function `discount10(price)` that receives a price
 // and returns the price after applying a 10% discount.
+
 let preço = 58
 
 function discount10(price) {
